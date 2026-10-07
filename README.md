@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hola, soy Diego 👋
 
-<!--
-**DiegoSpinnoza/DiegoSpinnoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero Civil Informático y Desarrollador Full Stack con más de 4 años de experiencia en el diseño y desarrollo de soluciones web robustas, enfocadas en automatizar procesos y digitalizar operaciones complejas.
 
-Here are some ideas to get you started:
+[LinkedIn](https://www.linkedin.com/in/diego-espinoza-3a1202184/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Stack Tecnológico
+
+* **Frontend:** React, Tailwind CSS
+* **Backend & Runtime:** Node.js, Bun, Express
+* **Bases de datos:** PostgreSQL, Supabase, Firebase, MySQL, MongoDB
+* **DevOps & Deploy:** Docker, Vercel, Render, Netlify, Cloudflare, Git
