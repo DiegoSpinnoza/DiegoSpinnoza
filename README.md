@@ -1,6 +1,6 @@
 ### Hola, soy Diego Espinoza.
 
-Ingeniero Civil Informático & Full Stack Developer especializado en el diseño de soluciones web robustas y la automatización de procesos complejos.
+Ingeniero Civil Informático & Full Stack Developer | UI/UX.
 
 [LinkedIn](https://www.linkedin.com/in/diego-espinoza-3a1202184/)
 
