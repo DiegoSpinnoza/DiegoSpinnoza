@@ -1,14 +1,13 @@
-### Hola, soy Diego 👋
+### Hola, soy Diego Espinoza.
 
-Ingeniero Civil Informático y Desarrollador Full Stack con más de 4 años de experiencia en el diseño y desarrollo de soluciones web robustas, enfocadas en automatizar procesos y digitalizar operaciones complejas.
+Ingeniero Civil Informático & Full Stack Developer especializado en el diseño de soluciones web robustas y la automatización de procesos complejos.
 
 [LinkedIn](https://www.linkedin.com/in/diego-espinoza-3a1202184/)
 
 ---
 
-### 🛠️ Stack Tecnológico
-
-* **Frontend:** React, Tailwind CSS
-* **Backend & Runtime:** Node.js, Bun, Express
-* **Bases de datos:** PostgreSQL, Supabase, Firebase, MySQL, MongoDB
-* **DevOps & Deploy:** Docker, Vercel, Render, Netlify, Cloudflare, Git
+**Lenguajes:** JavaScript · Python · Java · C++  
+**Frontend:** React · Tailwind CSS  
+**Backend:** Node.js · Express  
+**Bases de Datos:** PostgreSQL · MySQL · MongoDB · Redis · Supabase · Firebase  
+**Infraestructura:** Docker · Vercel · Git
